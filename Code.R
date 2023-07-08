@@ -2,6 +2,7 @@ library(shiny)
 library(Biostrings)
 library(seqinr)
 
+
 # Define UI
 ui <- fluidPage(
   titlePanel("Sequence Converter"),
